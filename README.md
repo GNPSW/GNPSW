@@ -11,4 +11,4 @@ My name is Potsawee Wasuanunkul or you can call me Ginal !
 
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=GNPSW&show_icons=true)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GNPSW&layout=compact)
