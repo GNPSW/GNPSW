@@ -13,4 +13,3 @@ My name is Potsawee Wasuanunkul or you can call me Ginal !
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GNPSW&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=GNPSW&theme=tokyonight)
